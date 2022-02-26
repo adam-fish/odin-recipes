@@ -1,0 +1,18 @@
+.body{
+    background-color: rgba(230, 202, 108, 0.714);
+}
+#indexDiv{
+    text-align: center;
+    }
+#indexList{
+    display: table;
+  margin: 0 auto;
+}
+.mainHeader{
+   font-size: 47px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+}
+.foodPic{
+    text-align: center;
+}
